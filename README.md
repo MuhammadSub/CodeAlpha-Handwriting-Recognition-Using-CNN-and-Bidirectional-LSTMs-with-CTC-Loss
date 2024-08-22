@@ -1,0 +1,1 @@
+# CodeAlpha-Handwriting-Recognition-Using-CNN-and-Bidirectional-LSTMs-with-CTC-Loss
